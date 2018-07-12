@@ -1,0 +1,31 @@
+@a /ey/
+* danh  từ 
+- nghĩa thứ 1 của danh từ
+=example1 cho danh từ+ ví dụ 1
+- nghĩa thứ 2 của danh từ
+=example 2.1 cho danh từ+ ví dụ 2.1
+=example 2.2 cho danh từ+ ví dụ 2.2
+* động từ của từ "a"
+- nghĩa 1 của động từ
+=ex1+ ví dụ 1 của động từ
+- nghĩa 2 của động từ
+=ex2+ví dụ 2
+* tính từ của 'a'
+- tính từ 1
+=adj 1 for a+ tính từ 1 cho a
+=adj 2for a+ tính từ 2 cho a
+
+@b /bii/
+* tính từ
+- nghĩa của b tính từ
+=example b+ ví dụ cho b
+@c /cii/
+- nghĩa của từ 'c'
+
+@d /dii/
+- nghĩa 1 của từ 'd'
+- nghĩa 2 của từ 'd'
+- nghĩa 3 của từ 'd'
+- nghĩa 4 của từ 'd'
+- nghĩa 5 của từ 'd'
+- nghĩa 6 của từ 'd'
